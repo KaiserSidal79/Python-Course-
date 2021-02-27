@@ -31,4 +31,5 @@ print(a)
 #a2 = make_album("DC", "Drill", "7")
 #print(a1, a2)
 
-#8-8 Album aus Benutzereingaben siehe 8-7
+#8-8 Album aus Benutzereingaben siehe 8-7 :)
+
